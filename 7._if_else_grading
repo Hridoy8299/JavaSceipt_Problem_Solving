@@ -1,3 +1,0 @@
-var myScore = 85;
-console.log(myScore);
-
